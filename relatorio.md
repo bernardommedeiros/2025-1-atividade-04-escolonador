@@ -48,7 +48,7 @@ time ./threads_cpu_io
 ### Estatísticas 
 Após conferir o tempo de execução efetuei a instalação do pacote perf, afim de adquirir as estatísticas sobre a performance do código e uso da CPU do cache, etc.
 <div>
-    <img alt="build " src="./images/perfstats.png"/>
+    <img alt="build " src="./images/perf_stats.png"/>
 </div>
 
 ### Listagem de processos e threads
